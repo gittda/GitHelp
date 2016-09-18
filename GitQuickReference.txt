@@ -17,6 +17,7 @@ Help/Reference
 	git to github import/export is always full repo with history
 	Git Book - http://git-scm.com/book
 		 - http://teach.github.com
-	Plugin for Eclipse - Egit
+Popular Tools
 
+	Plugin for Eclipse - Egit
 	
