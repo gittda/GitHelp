@@ -12,6 +12,9 @@ Commands
 	git remote add origin <<remote repo address>> -- link remote repo
 	git push -u origin master -- push local repo to remote
 
+Switches/Shorthands
+	git checkout -b <<branch name>>  -- creates branch <<branch name>> and checkouts to the branch
+
 Help/Reference
 	Git uses filesystems to create the repo, there is no background thread that runs to identify the untracked file or changes
 	When you run git status, Git checks the filesystem to identify the changes
