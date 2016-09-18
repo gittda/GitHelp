@@ -1,0 +1,22 @@
+Commands
+	git --version   --check the version of the git binary
+	git init <<Repo Name>>  --create new repo, this initializes the repo with default structure
+	git status   -- check status of repo
+	git add <<filename>>   --add file to the repo for tracking the changes
+	git commit -m "<<Comments>>" -- commit to the branch
+	git branch <<branch name>>  --create local branch
+	git checkout <<branch name>> --checkout to the local branch
+	git checkout master --checkout to the main branch
+	git branch - a   --list all the breanches of the repo
+	git remote add origin <<remote repo address>> -- link remote repo
+	git push -u origin master -- push local repo to remote
+
+Help/Reference
+	Git uses filesystems to create the repo, there is no background thread that runs to identify the untracked file or changes
+	When you run git status, Git checks the filesystem to identify the changes
+	git to github import/export is always full repo with history
+	Git Book - http://git-scm.com/book
+		 - http://teach.github.com
+	Plugin for Eclipse - Egit
+
+	
