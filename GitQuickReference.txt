@@ -11,6 +11,7 @@ Commands
 	git branch - a   --list all the breanches of the repo
 	git remote add origin <<remote repo address>> -- link remote repo
 	git push -u origin master -- push local repo to remote
+	git push origin -- pushes all the branches to remote
 
 Help/Reference
 	Git uses filesystems to create the repo, there is no background thread that runs to identify the untracked file or changes
