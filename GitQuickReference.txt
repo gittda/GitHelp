@@ -7,6 +7,7 @@ Commands
 	git branch <<branch name>>  --create local branch
 	git checkout <<branch name>> --checkout to the local branch
 	git checkout master --checkout to the main branch
+	git clone <<remote repo name>>
 	git branch - a   --list all the breanches of the repo
 	git remote add origin <<remote repo address>> -- link remote repo
 	git push -u origin master -- push local repo to remote
